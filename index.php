@@ -2,10 +2,10 @@
   echo "<html>
           <head></head>
           <body>
-            <h1>Watch out for the flying cat!</h1>
+            <h1>Ettevaatust, siit tuleb lendav kass!</h1>
             <p>
-              Here it comes:
-              <img src=\"https://picsum.photos/200/300\" />
+              Siit ta tuleb:
+              <img src=\"https://i.pinimg.com/originals/5d/49/83/5d498372870466ba95d776faf5b8f8fd.jpg" />
             </p>
           </body>
         </html>";
