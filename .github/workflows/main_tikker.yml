@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'tikker'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A0970380603E4CC8BAA896D888ADE875 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_25B44B8A3F0C4326A603F21617D0EDAF }}
           package: .
